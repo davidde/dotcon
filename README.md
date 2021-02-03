@@ -87,4 +87,5 @@ Now you can just run `dotcon` without complications.
 * `dotcon -d .dotfolder`  
   Same, but for custom dotfiles location; symlink everything in `./.dotfolder/home/` to its equivalent in `~`.
 
-
+**Repo's using Dotcon:**
+* My very own [dotfiles](https://github.com/davidde/.dotfiles).
